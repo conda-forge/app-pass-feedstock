@@ -145,6 +145,3 @@ Feedstock Maintainers
 
 * [@k-dominik](https://github.com/k-dominik/)
 
-
-<!-- dummy commit to enable rerendering -->
-

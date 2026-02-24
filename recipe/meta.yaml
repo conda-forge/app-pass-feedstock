@@ -1,5 +1,5 @@
 {% set name = "app-pass" %}
-{% set version = "0.2.1" %}
+{% set version = "0.2.2" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/app_pass-{{ version }}.tar.gz
-  sha256: 7f043e0e6d57d742b44a269bc796e2cc0360cce349280652d38b09aafbc7eefc
+  sha256: 408fa81f32766f693668504522663d39dc23770ed06e737caa81b73749f5867b
 
 build:
   entry_points:
